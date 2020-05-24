@@ -20,13 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aeaf3d84-e8e4-41aa-af97-d32ff7c4726e" name="Default Changelist" comment="Домашнее задание Урок-1">
-      <change afterPath="$PROJECT_DIR$/HW -4-7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW-4-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW-4-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW-4-3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW-4-4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW-4-5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW-4-6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -558,7 +552,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590018671444</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Домашнее задание Урок-4">
+      <created>1590334708149</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590334708149</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -578,7 +579,8 @@
     <MESSAGE value="Домашнее задание Урок-1" />
     <MESSAGE value="Домашнее задание Урок-2" />
     <MESSAGE value="Домашнее задание Урок-3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Домашнее задание Урок-3" />
+    <MESSAGE value="Домашнее задание Урок-4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Домашнее задание Урок-4" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1506" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590220795916">
@@ -605,10 +607,10 @@
     </state>
     <state width="1899" height="284" key="GridCell.Tab.0.right/0.0.1842.1080/-1920.30.1920.1050@-1920.30.1920.1050" timestamp="1590334616999" />
     <state width="1821" height="294" key="GridCell.Tab.0.right/0.0.1842.1080/-1920.30.1920.1050@0.0.1842.1080" timestamp="1589554445273" />
-    <state x="-1368" y="275" key="Vcs.Push.Dialog.v2" timestamp="1590018706274">
+    <state x="-1368" y="275" key="Vcs.Push.Dialog.v2" timestamp="1590334726340">
       <screen x="-1920" y="30" width="1920" height="1050" />
     </state>
-    <state x="-1368" y="275" key="Vcs.Push.Dialog.v2/0.0.1842.1080/-1920.30.1920.1050@-1920.30.1920.1050" timestamp="1590018706274" />
+    <state x="-1368" y="275" key="Vcs.Push.Dialog.v2/0.0.1842.1080/-1920.30.1920.1050@-1920.30.1920.1050" timestamp="1590334726340" />
     <state x="530" y="252" key="Vcs.Push.Dialog.v2/0.0.1842.1080/-1920.30.1920.1050@0.0.1842.1080" timestamp="1589554941983" />
     <state x="-1162" y="242" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589299676786">
       <screen x="-1920" y="30" width="1920" height="1050" />
