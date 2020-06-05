@@ -19,15 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aeaf3d84-e8e4-41aa-af97-d32ff7c4726e" name="Default Changelist" comment="Домашнее задание Урок-1">
-      <change afterPath="$PROJECT_DIR$/HW-8-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW-8-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW-8-3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW-8-4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW-8-5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW-8-6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW-8-7.py" afterDir="false" />
-    </list>
+    <list default="true" id="aeaf3d84-e8e4-41aa-af97-d32ff7c4726e" name="Default Changelist" comment="Домашнее задание Урок-1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -270,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591232637825</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Домашнее задание Урок-8">
+      <created>1591380277345</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591380277345</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -287,7 +286,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Домашнее задание Урок-7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Домашнее задание Урок-7" />
+    <MESSAGE value="Домашнее задание Урок-8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Домашнее задание Урок-8" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1899" height="361" key="GridCell.Tab.0.bottom" timestamp="1591380238232">
@@ -322,10 +322,10 @@
       <screen x="-1920" y="30" width="1920" height="1050" />
     </state>
     <state width="1899" height="352" key="GridCell.Tab.1.right/0.0.1842.1080/-1920.30.1920.1050@-1920.30.1920.1050" timestamp="1591233578603" />
-    <state x="-1368" y="275" key="Vcs.Push.Dialog.v2" timestamp="1591232648581">
+    <state x="-1368" y="275" key="Vcs.Push.Dialog.v2" timestamp="1591380380097">
       <screen x="-1920" y="30" width="1920" height="1050" />
     </state>
-    <state x="-1368" y="275" key="Vcs.Push.Dialog.v2/0.0.1842.1080/-1920.30.1920.1050@-1920.30.1920.1050" timestamp="1591232648581" />
+    <state x="-1368" y="275" key="Vcs.Push.Dialog.v2/0.0.1842.1080/-1920.30.1920.1050@-1920.30.1920.1050" timestamp="1591380380097" />
     <state x="-1396" y="284" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1591208913276">
       <screen x="-1920" y="30" width="1920" height="1050" />
     </state>
